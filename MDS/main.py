@@ -1,3 +1,4 @@
+# 这段代码是我抄哈工大五年前就发表在github上的东西，哈工大好厉害，居然会细粒度NER。
 import numpy as np
 from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt
